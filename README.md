@@ -1,1 +1,1 @@
-[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabbarX)]
+![Gabbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabbarX&show_icons=true&theme=radical)
