@@ -6,7 +6,7 @@ I'm an enthusiastic coder with immense love for new tech.
 
 ![Gabbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabbarX&show_icons=true&theme=radical)
 
-## - 🕹️ My Job
+## - 🕹️ About Me
 
 I'm currently persuing Computer Science with specialization in Artificial Intelligence at IIITD, Delhi. 👓
 
