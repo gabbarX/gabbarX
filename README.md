@@ -10,8 +10,6 @@ I'm an enthusiastic coder with immense love for new tech.
 
 I'm currently persuing Computer Science with specialization in Artificial Intelligence at IIITD, Delhi. 👓
 
-I'm also looking forward to work as an independent Game Developer ;) 🎮
-
 
 ## - 🧠 I Know / Use
 ### Programming Languages:
