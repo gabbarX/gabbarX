@@ -22,9 +22,4 @@ I'm currently persuing Computer Science with specialization in Artificial Intell
 
 <img src="http://img.shields.io/badge/-git-black?style=for-the-badge&logo=git" style="margin:5px" /><img src="http://img.shields.io/badge/-github-black?style=for-the-badge&logo=github" style="margin:5px" /><img src="http://img.shields.io/badge/-VSCODE-black?style=for-the-badge&logo=vscode" style="margin:5px" /><img src="http://img.shields.io/badge/-mongodb-black?style=for-the-badge&logo=mongodb" style="margin:25x" /><img src="http://img.shields.io/badge/-linux-black?style=for-the-badge&logo=linux&logoColor=red" style="margin:5px" />
 
-## - 🤓 I’m currently learning
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" style="margin:5px" stylalt="react js" width="50"/>            <img src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" style="margin:5px" alt="react js" width="50"/>
-<img src="https://miro.medium.com/max/805/0*m1VOQP0FtcQufLgw.png" style="margin:10px" alt="Express js" width="120"/>
-
 
