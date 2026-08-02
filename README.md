@@ -1,24 +1,171 @@
-# 💫 About Me:
-Welcome to my GitHub profile! I am currently pursuing Computer Science with Artificial Intelligence at IIIT Delhi. My love for technology is unmatched, and I am constantly exploring new frontiers in the field of AI and ML.
+<div align="center">
 
+# Ankit Gautam
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamankitgautam.in) 
+### Building production AI systems that don't break in production.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gabbarX&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gabbarX&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabbarX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+AI Engineer • Agentic Systems • LLM Infrastructure • Distributed AI • Founder @ Zenkai Dynamics
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gabbarX&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+<p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://iamankitgautam.in">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<img width="900" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:404040&section=header"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gabbarX&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Engineering Philosophy
+
+I don't build AI demos.
+
+I build production-grade intelligent systems capable of operating reliably under real-world constraints.
+
+My work spans autonomous agents, enterprise AI platforms, retrieval systems, distributed inference pipelines, and scalable ML infrastructure.
+
+Current focus:
+
+- Agentic AI
+- Multi-Agent Systems
+- Enterprise RAG
+- AI Infrastructure
+- LLM Evaluation
+- AI Products
+- Production ML
+
+---
+
+# Current
+
+Building **Zenkai Dynamics**
+
+An AI Engineering company focused on:
+
+- Enterprise AI Agents
+- Autonomous Workflows
+- AI Products
+- Embedded Intelligence
+- AI Infrastructure
+
+---
+
+# Tech Stack
+
+### AI
+
+Python • PyTorch • Transformers • LangGraph • LangChain • LlamaIndex • OpenAI • Gemini • Claude • Ollama • HuggingFace
+
+### Backend
+
+FastAPI • Django • Flask • Node.js • Express
+
+### Infrastructure
+
+Docker • Kubernetes • Redis • Kafka • PostgreSQL • MongoDB • Milvus • Qdrant
+
+### Cloud
+
+AWS • Azure • GCP • Vercel • Railway
+
+### DevOps
+
+GitHub Actions • Terraform • Linux • Nginx
+
+---
+
+# Things I enjoy building
+
+• AI Agents
+
+• Multi-Agent Systems
+
+• Distributed LLM Infrastructure
+
+• AI SaaS
+
+• AI Operating Systems
+
+• AI Developer Tools
+
+• Knowledge Graphs
+
+• Enterprise Search
+
+• Autonomous Research Systems
+
+---
+
+# Featured Projects
+
+### Enterprise AI Platform
+
+Production-ready AI platform for enterprise document intelligence, workflow automation, and autonomous reasoning.
+
+---
+
+### Agent Framework
+
+Composable framework for building scalable AI agents with memory, planning, tools, and human-in-the-loop execution.
+
+---
+
+### AI Architecture Library
+
+Battle-tested implementations of production AI patterns, evaluation pipelines, and deployment strategies.
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+# Currently Exploring
+
+- AI Operating Systems
+- Self-Improving Agents
+- Long-Term Memory Architectures
+- Model Context Protocol
+- Reinforcement Learning for Agents
+- Distributed AI
+- Edge Intelligence
+
+---
+
+# Quote
+
+> "Production is the only benchmark that matters."
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=grey"/>
+
+</p>
