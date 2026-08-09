@@ -1,10 +1,3 @@
-
-# gabbarx
-
-> Recruiter-friendly proof and contact path.
-
-**Theme:** GitHub · **Style:** Detailed · **Agent:** Full-Stack Engineer
-
 ## Header
 > Editing this section in the inspector.
 Hi, I'm **gabbarx**. This README is tuned for **get hired** with a GitHub visual system.
